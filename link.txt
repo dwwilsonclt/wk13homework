@@ -1,0 +1,4 @@
+http://www.hugobookstores.com/files/hugobooks/Jako_Headshot.jpg
+
+<img src="cinqueterre.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
+
